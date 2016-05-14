@@ -1,2 +1,2 @@
 # react-components
-Collection of own made react components, to reuse
+Collection of self made react components
